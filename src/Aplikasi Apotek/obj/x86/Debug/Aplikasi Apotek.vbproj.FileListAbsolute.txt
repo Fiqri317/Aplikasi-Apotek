@@ -1,0 +1,18 @@
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\bin\Debug\Aplikasi Apotek.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\bin\Debug\Aplikasi Apotek.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\bin\Debug\Aplikasi Apotek.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\obj\x86\Debug\Aplikasi_Apotek.Form1.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\obj\x86\Debug\Aplikasi_Apotek.Resources.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.vbproj.GenerateResource.Cache
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Apotek\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\bin\Debug\Aplikasi Apotek.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\bin\Debug\Aplikasi Apotek.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\bin\Debug\Aplikasi Apotek.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\obj\x86\Debug\Aplikasi_Apotek.Form1.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\obj\x86\Debug\Aplikasi_Apotek.Resources.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Apotek\src\Aplikasi Apotek\obj\x86\Debug\Aplikasi Apotek.vbproj.GenerateResource.Cache
